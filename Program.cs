@@ -2,11 +2,11 @@
 {
     private static void Main(string[] args)
     {
-        var num = 0;
+        var num1 = 0;
         var num2 = 1;
-        var soma = num + num2;
-        Console.WriteLine("A soma da: " + soma);
-        Console.WriteLine("fort");
-        Console.WriteLine("night");
+        var soma = num1 + num2;
+        Console.WriteLine("Hello, World!");
+        Console.WriteLine("You can't add days to your life, but you can add life to your days.");
+        Console.WriteLine("A soma dá: " + soma);
     }
 }
